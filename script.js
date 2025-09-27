@@ -12,15 +12,14 @@ const nextBtn = document.getElementById('next-btn');
 const volumeSlider = document.getElementById('volume-slider');
 const playlistEl = document.getElementById('playlist');
 
-// Sample playlist data (replace with your own)
+// Sample MY playlist data
 const playlist = [
     { title: 'HAPPY BIRTHDAAY', artist: 'BACKGROUNDMIUSIC', src: 'happybirthday.mp3' },
     { title: 'HappyBirthday', artist: 'YOUR BIRTHDAY', src: 'HAPPYBIRTHDAY2.mp3' },
     { title: 'Doremon', artist: 'Music', src: 'Doremon.mp3' },
-    { title: 'Calm and Peaceful', artist: 'Lesfm', src: 'https://cdn.pixabay.com/audio/2023/12/03/calm-and-peaceful-171836.mp3' },
-    { title: 'Relaxing Music', artist: 'Lofi_Hour', src: 'https://cdn.pixabay.com/audio/2023/09/22/relaxing-music-170428.mp3' },
-    // Here is how you add a new song:
-    { title: 'The World I Live', artist: 'Scott Buckley', src: 'https://cdn.pixabay.com/audio/2023/07/26/the-world-i-live-in-151025.mp3' }
+    { title: 'TELL-ME-WHAT', artist: 'REAL MUSIC', src: 'tell-me-what.mp3' },
+    { title: 'tera-pyar-mera-junoon', artist: 'music', src: 'tera-pyar-mera-junoon.mp3' },
+
 ];
 
 
