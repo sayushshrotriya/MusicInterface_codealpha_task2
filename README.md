@@ -7,6 +7,14 @@ Welcome to the **Simple Music Player**, a clean and straightforward web applicat
 
 -----
 
+
+### 🔗 Live Demo
+
+You can view a live version of this project here: [Live Demo Link](https://your-live-project-url.com)
+
+
+
+
 ### ✨ Features
 
   * **Responsive & Clean UI:** A modern, minimalist design that looks great on any screen size.
