@@ -10,7 +10,7 @@ Welcome to the **Simple Music Player**, a clean and straightforward web applicat
 
 ### 🔗 Live Demo
 
-You can view a live version of this project here: [Live Demo Link](https://your-live-project-url.com)
+You can view a live version of this project here: [Live Demo Link](https://sayushshrotriya.github.io/MusicInterface_codealpha_task2/)
 
 
 
